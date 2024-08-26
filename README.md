@@ -55,19 +55,19 @@ Creating a custom dataset can be a time-consuming and challenging task, often re
     
 **Create Project**
 
-    ![Screenshot 2024-08-26 215527](https://github.com/user-attachments/assets/00021d0d-e389-446e-a6e8-ba6f7039fd21)
+![Screenshot 2024-08-26 215527](https://github.com/user-attachments/assets/00021d0d-e389-446e-a6e8-ba6f7039fd21)
 
  
 **Add class**
 
-    ![Screenshot 2024-08-26 215559](https://github.com/user-attachments/assets/3c72291f-fd27-451b-b1c4-e0fa5b311a83)
+![Screenshot 2024-08-26 215559](https://github.com/user-attachments/assets/3c72291f-fd27-451b-b1c4-e0fa5b311a83)
 
 
  
 **Add images** by drag & drop or  add entire folder
 
     
-    ![Screenshot 2024-08-26 215618](https://github.com/user-attachments/assets/06688ea1-2aae-48eb-b595-ae3dd0dc5f21)
+![Screenshot 2024-08-26 215618](https://github.com/user-attachments/assets/06688ea1-2aae-48eb-b595-ae3dd0dc5f21)
 
 
     
@@ -80,8 +80,8 @@ Creating a custom dataset can be a time-consuming and challenging task, often re
 **After annotation genrate dataset**
     Now that we have our images and annotations added, we can Generate a Dataset Version. When Generating a Version, you may elect to add preprocessing and augmentations. This step is completely optional, however, it can allow you to significantly improve the robustness of your model.
     
-    
-    ![Screenshot 2024-08-26 215720](https://github.com/user-attachments/assets/634a37c0-bfda-4b38-9c7e-56550e069e95)
+
+![Screenshot 2024-08-26 215720](https://github.com/user-attachments/assets/634a37c0-bfda-4b38-9c7e-56550e069e95)
 
 
  
