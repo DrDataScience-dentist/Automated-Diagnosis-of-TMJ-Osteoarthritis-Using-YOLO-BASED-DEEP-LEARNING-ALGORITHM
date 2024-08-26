@@ -1,5 +1,6 @@
 
-![Uploading 1722607498610.png…]()
+![1722607498610](https://github.com/user-attachments/assets/2d84864a-395d-4287-b756-b2224e2e551a)
+
 
 
 # **TRAIN YOLOV8 OBJECT DETECTION ON A CUSTOM DATASET (DIAGNOSING TMJ OSTEOARTHRITIS)**
