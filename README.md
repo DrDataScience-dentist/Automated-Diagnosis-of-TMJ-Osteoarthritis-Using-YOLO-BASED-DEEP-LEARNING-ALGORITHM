@@ -91,5 +91,5 @@ Creating a custom dataset can be a time-consuming and challenging task, often re
     
 ![Screenshot 2024-08-26 215748](https://github.com/user-attachments/assets/00914ac6-ed36-44ee-acf0-1c3ac952b80a)
 
-# **Download ipynb file above and upload in kaggle notebook and runn all the cell for training**
+# **Download ipynb file above and upload in kaggle notebook and run all the cell for training**
   ---
